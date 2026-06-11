@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/Sales_Dashboard_2026_v2.html" }
+    { "source": "/", "destination": "/Inside_Dashboard.html" }
   ]
 }
