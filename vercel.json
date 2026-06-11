@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/Bill Share/makro-shopping-multiple-bills.html" }
+    { "source": "/", "destination": "/Sales_Dashboard_2026_v2.html" }
   ]
 }
